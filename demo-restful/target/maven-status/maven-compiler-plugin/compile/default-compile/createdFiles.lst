@@ -1,0 +1,6 @@
+com\xxx\demo\web\config\FastJSONConfig.class
+com\xxx\demo\web\config\SwaggerConfig.class
+com\xxx\demo\web\config\WebConfig.class
+com\xxx\demo\web\controller\demo\DemoController.class
+com\xxx\demo\web\Application.class
+com\xxx\demo\web\config\DruidConfig.class
